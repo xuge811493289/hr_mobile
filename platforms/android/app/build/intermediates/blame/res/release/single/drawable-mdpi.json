@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\xuge\\Desktop\\hr\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_action_refresh.png",
+        "source": "C:\\Users\\xuge\\Desktop\\hr\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\xuge\\Desktop\\hr\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_action_scan.png",
+        "source": "C:\\Users\\xuge\\Desktop\\hr\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_scan.png"
+    }
+]
